@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Create a bug report to help us improve
+about: Please do not use bug reports for support issues.
 title: ''
 labels: ''
 assignees: ''
@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 <!---
-THIS IS NOT THE PLACE TO ASK FOR SUPPORT.
+THIS IS NOT THE PLACE TO ASK FOR SUPPORT!
 Please use the [Discord Server](https://tautulli.com/discord) for support issues.
 --->
 
