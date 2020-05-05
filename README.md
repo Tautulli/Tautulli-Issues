@@ -42,7 +42,7 @@ problem isn't answered in the FAQ try the following first:
 [FAQ]: https://github.com/Tautulli/Tautulli-Wiki/wiki/Frequently-Asked-Questions
 [FeatHub]: https://feathub.com/Tautulli/Tautulli
 [Installation]: https://github.com/Tautulli/Tautulli-Wiki/wiki/Installation
-[issue tracker]: https://github.com/Tautulli/Tautulli-Issues/issues/new
+[issue tracker]: https://github.com/Tautulli/Tautulli-Issues/issues/new/choose
 [Markdown syntax]: https://help.github.com/articles/github-flavored-markdown
 [support]: http://tautulli.com/#support
 [Tautulli]: http://tautulli.com/
