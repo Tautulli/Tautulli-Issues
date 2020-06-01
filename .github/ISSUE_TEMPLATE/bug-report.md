@@ -8,8 +8,8 @@ assignees: ''
 ---
 
 <!---
-THIS IS NOT THE PLACE TO ASK FOR SUPPORT!
-Please use the [Discord Server](https://tautulli.com/discord) for support issues.
+THIS IS NOT THE PLACE TO ASK FOR SUPPORT! Please use [Discord](https://tautulli.com/discord) for support issues.
+DO NOT ERASE THE TEMPLATE! Please complete the entire template.
 --->
 
 **Describe the Bug**
@@ -17,15 +17,15 @@ A clear and concise description of what the bug is.
 
 **Steps to Reproduce**
 1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
+2. Click on '...'
+3. Scroll down to '...'
 4. See error
 
 **Expected Behavior**
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+Provide screenshots to help explain your problem.
 
 **Relevant Settings**
 - eg. Plex Media Server IP address/port/checkboxes/proxy/etc.
